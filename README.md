@@ -4,7 +4,16 @@ Software engineer building live web products, automation, and full-stack systems
 
 I work end-to-end across product definition, frontend architecture, backend services, authentication, deployment, and production support.
 
+I have created AI solutions since 2018, with confirmed work spanning stock market operations, image recognition, facial recognition, and natural language use cases.
+
 Open to remote software engineering roles focused on product execution, full-stack delivery, and real-world maintenance.
+
+## Confirmed AI Work Since 2018
+
+- stock market operations
+- image recognition
+- facial recognition
+- natural language systems
 
 ## Featured Public Work
 
