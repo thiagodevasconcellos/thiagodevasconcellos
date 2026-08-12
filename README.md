@@ -1,47 +1,31 @@
 # Thiago de Vasconcellos
 
-Software engineer building live web products, automation, and full-stack systems.
+Senior software engineer building and maintaining production systems, automation, and full-stack products.
 
-I work end-to-end across product definition, frontend architecture, backend services, authentication, deployment, and production support.
+I work end to end across product definition, frontend implementation, backend services, automation, deployment, troubleshooting, and ongoing product iteration.
 
-I have created AI solutions since 2018, with confirmed work spanning stock market operations, image recognition, facial recognition, and natural language use cases.
+Open to remote software engineering roles, especially those centered on product delivery, backend/full-stack execution, automation, and practical technical ownership.
 
-Open to remote software engineering roles focused on product execution, full-stack delivery, and real-world maintenance.
+## What I Build
 
-## Confirmed AI Work Since 2018
+- full-stack and backend software engineering
+- Python, React, TypeScript, JavaScript, PHP, SQL, and Linux environments
+- automation and AI-oriented workflows
+- systems that go from local build to real production use
 
-- stock market operations
-- image recognition
-- facial recognition
-- natural language systems
-
-## Featured Public Work
+## Live Product Work
 
 ### Robotineeko
 
-Live broker-aware trading workstation with public demo access, production maintenance, and a recruiter-facing public repository.
+Live product with public demo access, production maintenance, and a curated public repository built for recruiter review.
 
-- React + Vite frontend
-- FastAPI + Python backend
-- production deployment and runtime ownership
-- safe public documentation and curated code snapshot
+- frontend delivery and product iteration
+- backend-connected application flows
+- deployment and runtime ownership
+- safe public documentation and repository curation
 
-Public repository: [robotineeko-public](https://github.com/thiagodevasconcellos/robotineeko-public)  
+Public repository: `robotineeko-public`  
 Live product: [robotineeko.com.br](https://robotineeko.com.br)
-
-### Estudio
-
-Browser-based multitrack rehearsal and study workstation focused on synchronized stems playback, Web Audio, waveform interaction, A/B loops, playlists, and mix snapshots.
-
-- React 19 + Vite 8 + TypeScript 6
-- Web Audio playback and waveform-driven UX
-- per-user persistence in the public demo
-- curated public snapshot with synthetic safe demo assets
-
-Public repository: [estudio-public](https://github.com/thiagodevasconcellos/estudio-public)  
-Live product: [rauhanara.com/estudio](https://rauhanara.com/estudio/)
-
-## Selected Private Live Work
 
 ### Peachy Yumi
 
@@ -51,22 +35,28 @@ The live product is public, but the source code remains private.
 
 Live product: [peachyumi.com](https://peachyumi.com)
 
-## What I Build
-
-- React, Vite, and TypeScript interfaces
-- Node.js and Python services
-- authentication and protected user flows
-- browser automation and workflow tooling
-- systems that go from local build to live production
-
 ## How I Work
 
 - I ship real product surfaces, not just prototypes
-- I stay close to deployment, runtime, and maintenance
+- I stay close to runtime, deployment, and maintenance
 - I treat documentation as part of product delivery
 - I keep public portfolio artifacts safe, narrow, and recruiter-friendly
+
+## Public Identity
+
+- public name: `Thiago de Vasconcellos`
+- public GitHub: [github.com/thiagodevasconcellos](https://github.com/thiagodevasconcellos)
+- LinkedIn: [linkedin.com/in/thiago-de-vasconcellos-ba019011b](https://linkedin.com/in/thiago-de-vasconcellos-ba019011b)
+
+## Public Portfolio Policy
+
+- public repositories are intentionally sanitized
+- private production code and operational details stay private
+- demos, documentation, and repository structure show the engineering signal
 
 ## Links
 
 - Portfolio: [robotineeko.com.br](https://robotineeko.com.br)
 - Additional live product: [peachyumi.com](https://peachyumi.com)
+- GitHub: [github.com/thiagodevasconcellos](https://github.com/thiagodevasconcellos)
+- LinkedIn: [linkedin.com/in/thiago-de-vasconcellos-ba019011b](https://linkedin.com/in/thiago-de-vasconcellos-ba019011b)
