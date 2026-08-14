@@ -2,7 +2,7 @@
 
 Senior software engineer building and maintaining production systems, automation, and full-stack products.
 
-I work end to end across product definition, frontend implementation, backend services, automation, deployment, troubleshooting, and ongoing product iteration.
+I work end to end across product definition, frontend implementation, backend services, automation, deployment, troubleshooting, and ongoing product iteration. Through independent projects, I have also built AI-related solutions since 2018 for stock market operations, image recognition, facial recognition, language systems, and financial analysis.
 
 Open to remote software engineering roles, especially those centered on product delivery, backend/full-stack execution, automation, and practical technical ownership.
 
@@ -10,7 +10,7 @@ Open to remote software engineering roles, especially those centered on product 
 
 - full-stack and backend software engineering
 - Python, React, TypeScript, JavaScript, PHP, SQL, and Linux environments
-- automation and AI-oriented workflows
+- independent AI and automation workflows
 - systems that go from local build to real production use
 
 ## Live Product Work
